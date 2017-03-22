@@ -11,6 +11,6 @@ title: Data Structures
 
 ## Rooted Three
 
-###Binary Three
+### Binary Three
 
-###N-Boundary Three
+### N-Boundary Three
