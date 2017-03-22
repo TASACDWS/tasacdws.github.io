@@ -10,5 +10,7 @@ title: Data Structures
 ## Linked List
 
 ## Rooted Three
+
 ###Binary Three
+
 ###N-Boundary Three
