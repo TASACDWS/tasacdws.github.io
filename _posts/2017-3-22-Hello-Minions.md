@@ -3,7 +3,7 @@ layout: post
 title: Aprendo, Aprendo, Aprendo!!!!
 ---
 
-El alvaro q invite pizza!!!
+Bienvenidos al blog de los Minions dedicado a aprender muchos topicos de desarrollo de software.
 
 
 
